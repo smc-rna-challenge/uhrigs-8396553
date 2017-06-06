@@ -23,7 +23,7 @@ pip install -r requirements.txt
 python download.py
 
 # Run the workflow
-cwltool main.cwl
+rabix -v -i inputs.json main.cwl
 ```
 
 Resource Usage

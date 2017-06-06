@@ -1,3 +1,4 @@
 synapseclient==1.6.2
 schema-salad==1.18.20161005190847
 cwltool==1.0.20161007181528
+rabix==0.8.0
